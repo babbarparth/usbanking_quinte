@@ -1,4 +1,4 @@
-#US Banking Overview
+US Banking Overview
 
 Welcome to the US Banking Overview repository. This repository contains four documents that provide comprehensive information about various aspects of banking in the United States. These documents cover the evolution of banking, the structure of the banking system, the journey of banking, and the different types of banks in the US.
 
